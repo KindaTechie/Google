@@ -37,3 +37,11 @@ body {
   color: white;
   cursor: pointer;
 }
+
+.img-container{
+  width: 350px;
+}
+
+.header-img{
+  width:100%;
+}
