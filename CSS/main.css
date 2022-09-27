@@ -60,12 +60,13 @@ align-items:center;
 }
 
 .search-container {
-  padding: 20px;
+  padding: 0px;
   display: block;
   box-sizing: border-box;
-  border:1px solid grey;
+  border:25px solid grey;
   border-radius:5px;
   margin:10px 0px;
+  
 }
 .search{
   border:none;
@@ -94,6 +95,11 @@ align-items:center;
 
 .search-img{
   width:10px;
+}
+
+.mic{
+  width:10px;
+  float:right;
 }
 
 .btn-google{
