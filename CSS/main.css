@@ -159,6 +159,32 @@ body {
   user-select: none;
 }
 
-.footer {
-
+footer {
+  border: 1px solid black;
+  display: block;
+  margin: 10px 0px;
+  width: 1200px;
+  height: 93px;
+  font-size: 14px;
+  font-family: Roboto, arial, sans-serif;
+  color: #202124;
+  padding: 0px 20px 0px 20px;
+  flex-direction: row;
+  align-items: center;
+  padding: 15px;
+  white-space: nowrap;
+  background: #f2f2f2;
+ 
+  
 }
+.left{
+  border:1px solid black;
+  justify-content: space-evenly;
+}
+.right{
+  border:1px solid black;
+justify-content:center;
+}
+
+
+
