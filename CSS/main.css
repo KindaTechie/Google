@@ -177,8 +177,21 @@ footer{
   align-items: center;
 flex-shrink: 0;
 padding:0px 20px;
+width: 1430px;
+height:47px;
 
+}
 
+.footer-left{
+  border:1px solid black;
+  width: 427px;
+  height:47px;
+}
+
+.footer-right{
+    border:1px solid black;
+    width: 427px;
+    height:47px;
 }
 
 .leaf{
