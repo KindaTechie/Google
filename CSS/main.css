@@ -10,12 +10,15 @@ margin:0;
 
 .content {
   flex: 1 0 auto;
+  
 }
 .main-nav {
   display: flex;
   flex-wrap: wrap;
   align-items: center;
   justify-content: space-between;
+ 
+  
 }
 
 .nav-left,
@@ -23,6 +26,7 @@ margin:0;
   display: flex;
   flex-direction: row;
   align-items: center;
+  
 }
 
 .nav-left > *,
@@ -180,6 +184,7 @@ padding:0px 20px;
 width: 1430px;
 height:47px;
 
+
 }
 
 .footer-left{
@@ -187,6 +192,16 @@ height:47px;
   width: 427px;
   height:47px;
 }
+
+
+.footer-middle{
+  
+  width:212px;
+  
+
+}
+
+
 
 .footer-right{
     
